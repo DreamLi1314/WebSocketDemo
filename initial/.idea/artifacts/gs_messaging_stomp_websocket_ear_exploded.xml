@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="gs-messaging-stomp-websocket:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/gs_messaging_stomp_websocket_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="gs-messaging-stomp-websocket/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
